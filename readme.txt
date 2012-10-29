@@ -1,3 +1,4 @@
 Aprendendo git
 alteração terceiro commit
-criando conflito
+garantindo conflito
+
