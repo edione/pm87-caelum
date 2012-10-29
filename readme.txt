@@ -1,1 +1,2 @@
 Aprendendo git
+garantindo conflito
